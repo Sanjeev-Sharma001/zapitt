@@ -1,2 +1,1 @@
-# zapitt backend assignment 
-Creating REST API with Authentication
+# Creating REST API with Authentication
